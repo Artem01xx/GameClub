@@ -1,0 +1,7 @@
+D:\C#\C#_Tasks\C#_Tasks\bin\Debug\C#_Tasks.exe.config
+D:\C#\C#_Tasks\C#_Tasks\bin\Debug\C#_Tasks.exe
+D:\C#\C#_Tasks\C#_Tasks\bin\Debug\C#_Tasks.pdb
+D:\C#\C#_Tasks\C#_Tasks\obj\Debug\C#_Tasks.csproj.AssemblyReference.cache
+D:\C#\C#_Tasks\C#_Tasks\obj\Debug\C#_Tasks.csproj.CoreCompileInputs.cache
+D:\C#\C#_Tasks\C#_Tasks\obj\Debug\C#_Tasks.exe
+D:\C#\C#_Tasks\C#_Tasks\obj\Debug\C#_Tasks.pdb
